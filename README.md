@@ -17,8 +17,7 @@
 <details open>
   <summary>🇺🇸 English</summary>
 
-I’m a **Full-Stack Software Developer** with hands-on experience in **C#**, **ASP.NET Core**, **Blazor**, **MudBlazor**, **SQL Server**, and **Flutter**.  
-I hold a **Technical degree in Systems Development** and I’m about to complete my **degree in Systems Analysis and Development** this year.  
+I’m a **Full-Stack Software Developer** with hands-on experience in **C#**, **ASP.NET Core**, **Blazor**, **MudBlazor**, **SQL Server**, and **Flutter**. I hold a **technical diploma in Systems Development** and completed a degree in **Systems Analysis and Development**.  
 
 What drives me in programming is its complexity: at first it looks hard to grasp, but once you understand it, it becomes fascinating. That’s why I dedicate myself to constant learning — exploring new languages, frameworks, and libraries to always deliver the best in every project I’m part of.  
 
