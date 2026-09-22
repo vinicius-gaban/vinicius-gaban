@@ -30,7 +30,7 @@ My goal is to **grow as a developer and advance my career**, contributing to imp
   <summary>🇧🇷 Português</summary>
 
 Sou **Desenvolvedor de Sistemas Full-Stack**, com experiência prática em **C#**, **ASP.NET Core**, **Blazor**, **MudBlazor**, **SQL Server** e **Flutter**.  
-Tenho formação em **Técnico de Desenvolvimento de Sistemas** e estou concluindo este ano a graduação em **Análise e Desenvolvimento de Sistemas**.  
+Possuo curso **Técnico em Desenvolvimento de Sistemas** e formação superior em **Tecnólogo em Análise e Desenvolvimento de Sistemas**.  
 
 O que me motiva na programação é justamente a sua complexidade: no início parece difícil, mas quando você entende, torna-se algo fascinante. Por isso, me dedico constantemente aos estudos — explorando novas linguagens, frameworks e bibliotecas para sempre entregar o melhor em cada projeto do qual faço parte.  
 
