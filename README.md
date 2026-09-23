@@ -66,6 +66,7 @@ Meu objetivo é **crescer como desenvolvedor e na minha carreira**, contribuindo
 - 🔒 [**Secure-Locker**](https://github.com/vinicius-gaban/Secure-Locker) – Automated locker system with **RFID**, **Biometrics**, and **ESP32**.  
 - 🏨 [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) – Reservation system with **AI (Python)** for feedback analysis.  
 - ⚙️ [**Projeto-Integrador-CNC**](https://github.com/vinicius-gaban/Projeto-Integrador-CNC) – CNC control interface using **Node-RED** and **virtual joystick**.  
+- 🌬️ [**AirCompressorMonitor**](https://github.com/vinicius-gaban/AirCompressorMonitor) – Mobile monitoring and remote control system for air compressors, with automated on/off scheduling.
 
 ---
 
