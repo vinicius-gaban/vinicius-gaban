@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/vinicius-gaban/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/Gaban03" target="_blank">
+  <a href="https://github.com/vinicius-gaban" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
@@ -17,7 +17,7 @@
 <details open>
   <summary>🇺🇸 English</summary>
 
-I’m a **Full-Stack Software Developer** with hands-on experience in **C#**, **ASP.NET Core**, **Blazor**, **MudBlazor**, **SQL Server**, and **Flutter**. I hold a **technical diploma in Systems Development** and completed a degree in **Systems Analysis and Development**.  
+I’m a **Full-Stack Software Developer** with hands-on experience in **C#**, **ASP.NET Core**, **Blazor**, **MudBlazor**, **Windows Forms**, **SQL Server**, and **Flutter**. I hold a **technical diploma in Systems Development** and completed a degree in **Systems Analysis and Development**.  
 
 What drives me in programming is its complexity: at first it looks hard to grasp, but once you understand it, it becomes fascinating. That’s why I dedicate myself to constant learning — exploring new languages, frameworks, and libraries to always deliver the best in every project I’m part of.  
 
@@ -28,7 +28,7 @@ My goal is to **grow as a developer and advance my career**, contributing to imp
 <details>
   <summary>🇧🇷 Português</summary>
 
-Sou **Desenvolvedor de Sistemas Full-Stack**, com experiência prática em **C#**, **ASP.NET Core**, **Blazor**, **MudBlazor**, **SQL Server** e **Flutter**.  
+Sou **Desenvolvedor de Sistemas Full-Stack**, com experiência prática em **C#**, **ASP.NET Core**, **Blazor**, **MudBlazor**, **Windows Forms**, **SQL Server** e **Flutter**.  
 Possuo curso **Técnico em Desenvolvimento de Sistemas** e formação superior em **Tecnólogo em Análise e Desenvolvimento de Sistemas**.  
 
 O que me motiva na programação é justamente a sua complexidade: no início parece difícil, mas quando você entende, torna-se algo fascinante. Por isso, me dedico constantemente aos estudos — explorando novas linguagens, frameworks e bibliotecas para sempre entregar o melhor em cada projeto do qual faço parte.  
@@ -63,14 +63,14 @@ Meu objetivo é **crescer como desenvolvedor e na minha carreira**, contribuindo
 
 ## 💼 Featured Projects  
 
-- 🔒 [**Secure-Locker**](https://github.com/Gaban03/Secure-Locker) – Automated locker system with **RFID**, **Biometrics**, and **ESP32**.  
+- 🔒 [**Secure-Locker**](https://github.com/vinicius-gaban/Secure-Locker) – Automated locker system with **RFID**, **Biometrics**, and **ESP32**.  
 - 🏨 [**Pousada-Ypua**](https://github.com/SENAISP-Unid601-Projetos/PousadaYpua) – Reservation system with **AI (Python)** for feedback analysis.  
-- ⚙️ [**Projeto-Integrador-CNC**](https://github.com/Gaban03/Projeto-Integrador-CNC) – CNC control interface using **Node-RED** and **virtual joystick**.  
+- ⚙️ [**Projeto-Integrador-CNC**](https://github.com/vinicius-gaban/Projeto-Integrador-CNC) – CNC control interface using **Node-RED** and **virtual joystick**.  
 
 ---
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaban03&show_icons=true&theme=dark" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaban03&layout=compact&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinicius-gaban&show_icons=true&theme=dark" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius-gaban&layout=compact&theme=dark" height="165" />
 </p>
